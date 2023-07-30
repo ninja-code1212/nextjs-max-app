@@ -2,14 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  
-}
+:root {}
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color:#d90b1f;
-    --text-color:#990ceb;
+    --background-color: #d90b1f;
+    --text-color: #990ceb;
   }
 }
 
@@ -23,14 +21,16 @@ body {
 }
 
 .mainpage-title {
-  color: #911919;
+  color: #22c55e;
   font-size: 32px;
-  text-align:center;
+  text-align: center;
+  font-style: italic;
 }
+
 body {
-  background-color:#7c11ba;
+  background-color: #7c11ba;
 }
 
 .Button {
-  box-align:center;
+  text-align: center;
 }
