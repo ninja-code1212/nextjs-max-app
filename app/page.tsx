@@ -8,7 +8,7 @@ export default function Home() {
           <p className="mainpage-title">Добро пожаловать на сайт Максима</p>
           <a href="https://github.com/ninja-code1212" className="my-button bg-blue-500 hover:bg-blue-700 text-red font-impact py-2 px-4 rounded-full">Github</a>
           <title>Максим</title>
-          <a href="#" aria-disabled className="my-button bg-blue-500 hover:bg-blue-700 text-red font-impact py-2 px-4 rounded-full">Docs</a>
+          <a href="#" className="my-button bg-blue-500 hover:bg-blue-700 text-red font-impact py-2 px-4 rounded-full">Docs</a>
         </div>
       </div>
     </main>
