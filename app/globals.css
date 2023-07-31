@@ -24,13 +24,10 @@ body {
   color: #22c55e;
   font-size: 32px;
   text-align: center;
-  font-style: italic;
+  font-family:'Courier New';
 }
 
 body {
   background-color: #7c11ba;
 }
 
-.Button {
-  text-align: center;
-}
